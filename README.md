@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erikasomodi
-- 👀 I’m interested in html5, css3, JavaScript, jQuery.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in html5, css3, Typescript, JavaScript, jQuery, Angular, React, Vue.
+- 🌱 I’m currently learning JavaScript, Angular, React, Vue.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
